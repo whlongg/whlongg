@@ -48,8 +48,6 @@
 -   ⚜️ My name is Nguyễn Hoàng Long.
 -   ❤️‍🔥 13/06/200?
 -   💬 My nickname is Starling
--   💬 My rela is T.Thi Huyen Trang
--   🍁 Profile: [Facebook](https://www.facebook.com/Huster08)
 -   🍀 Describe yourself: Change - Challenge - Champion!
 
 <hr>
