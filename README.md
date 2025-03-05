@@ -60,7 +60,7 @@
 ### 🔍 Key Projects
 
 **Eldorado Game Platform**
-- Led backend development for game clone with 100K+ concurrent users
+- Led backend development for game clone with 10K+ concurrent users
 - Implemented real-time game mechanics and payment systems
 - Achieved 99.99% uptime with distributed architecture
 - Optimized database performance for high-throughput transactions
