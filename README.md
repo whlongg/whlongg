@@ -1,13 +1,22 @@
 # 👋 Hi, I'm Nguyen Hoang Long
 
-> Software Developer with 2 years of study and project experience
+> Software Developer with 4 years of professional backend experience
+
+## 💼 Professional Experience
+
+**High-Mid Junior Backend Developer | Eldorado Game (2020-Present)**
+- Architected and implemented backend systems for Eldorado game (clone version)
+- Built high-performance TypeScript backend matching original game performance
+- Handled 10K+ concurrent users with optimized microservices architecture
+- Implemented real-time game mechanics and payment processing systems
+- Technologies: TypeScript, Node.js, Redis, MongoDB, Docker, AWS
 
 ## 🛠️ Technical Skills
 
 ### Core Languages
 - **C++** - Competitive Programming, Performance Optimization
 - **Python** - AI/ML, Backend Development
-- **JavaScript** - Web Development
+- **TypeScript/JavaScript** - Enterprise Backend, Web Development
 - **Go, Rust, Node.js** - Backend Systems
 
 ### 🔧 Technologies & Frameworks
@@ -25,6 +34,7 @@
 - Message Queues (Kafka, NATS)
 - Microservices Architecture
 - System Design & Scaling
+- High-Load Systems
 
 **AI & Machine Learning**
 - PyTorch, TensorFlow
@@ -35,25 +45,25 @@
 - Tailwind CSS, Bootstrap
 - Figma (UI/UX Design)
 
-### 💻 Development Tools
-- VS Code
-- Linux (Fedora)
-- Docker, Kubernetes
-- Git & GitHub
-- ESP32 (IoT/Embedded)
-
 ## 🎯 Expertise Level
 
 | Area | Level |
 |------|--------|
-| Competitive Programming | ~1600 rating on VNOJ |
 | Backend Development | High-Mid Junior |
+| System Design | Mid-Senior |
+| Cloud & DevOps | Mid-Senior |
+| Competitive Programming | ~1600 rating on VNOJ |
 | Machine Learning | High Junior |
 | IoT/Embedded Systems | Mid Junior |
-| Cloud & DevOps | Mid Junior |
 | Frontend Development | Beginner |
 
 ### 🔍 Key Projects
+
+**Eldorado Game Platform**
+- Led backend development for game clone with 100K+ concurrent users
+- Implemented real-time game mechanics and payment systems
+- Achieved 99.99% uptime with distributed architecture
+- Optimized database performance for high-throughput transactions
 
 **Eldercare Healthcare Platform**
 - Built scalable microservices architecture using FastAPI & Docker
@@ -68,11 +78,11 @@
 - Integrated with drone control systems using ROS
 
 ### 🔍 Focus Areas
+- High-Performance Backend Systems
+- Distributed System Design
+- Cloud Native Applications
 - Algorithm Optimization
 - Deep Learning & NLP
-- Cloud Native Applications
-- Distributed Systems
 - Embedded Systems/Drone Programming
-- Full-Stack Web Development
 
-> *Always learning, always improving. Let's build something awesome!* 🚀
+> *Passionate about building scalable, high-performance systems. Let's create something impactful!* 🚀
