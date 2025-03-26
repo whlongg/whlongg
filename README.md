@@ -2,6 +2,8 @@
 
 > Software Developer with 4 years of professional backend experience
 
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whlongg&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 💼 Professional Experience
 
 **High-Mid Junior Backend Developer | Eldorado Game (2020-Present)**
