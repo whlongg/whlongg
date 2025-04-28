@@ -6,7 +6,7 @@
 
 ## 💼 Professional Experience
 
-**High-Mid Junior Backend Developer | Eldorado Game (2020-Present)**
+**Mid Backend Developer | Eldorado Game (2020-Present)**
 - Architected and implemented backend systems for Eldorado game (clone version)
 - Built high-performance TypeScript backend matching original game performance
 - Handled 10K+ concurrent users with optimized microservices architecture
@@ -51,7 +51,7 @@
 
 | Area | Level |
 |------|--------|
-| Backend Development | High-Mid Junior |
+| Backend Development | Mid developer |
 | System Design | Mid-Senior |
 | Cloud & DevOps | Mid-Senior |
 | Competitive Programming | ~1600 rating on VNOJ |
