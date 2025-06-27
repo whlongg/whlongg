@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Nguyen Hoang Long
 
-> Software Developer with 4 years of professional backend experience
+> Software Developer with 4 years of professional backend experience.
 
+> *On a mission to learn, build, and cherish my girlfriend Thu (aka 하나 — check her out on Instagram:* @_t.thv21_ )💗
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whlongg&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 💼 Professional Experience
