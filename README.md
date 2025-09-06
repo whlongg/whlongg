@@ -5,7 +5,7 @@
 > *On a mission to learn, build, and cherish my girlfriend Thu (aka 하나 — check her out on Instagram:* @_t.thv21_ )💗
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whlongg&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Mid Backend Developer | Eldorado Game (2020-Present)**
 - Architected and implemented backend systems for Eldorado game (clone version)
@@ -14,7 +14,7 @@
 - Implemented real-time game mechanics and payment processing systems
 - Technologies: TypeScript, Node.js, Redis, MongoDB, Docker, AWS
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Core Languages
 - **C++** - Competitive Programming, Performance Optimization
@@ -22,7 +22,7 @@
 - **TypeScript/JavaScript** - Enterprise Backend, Web Development
 - **Go, Rust, Node.js** - Backend Systems
 
-### 🔧 Technologies & Frameworks
+### Technologies & Frameworks
 
 **Backend & Cloud**
 - FastAPI, Flask, Django
@@ -48,7 +48,7 @@
 - Tailwind CSS, Bootstrap
 - Figma (UI/UX Design)
 
-## 🎯 Expertise Level
+## Expertise Level
 
 | Area | Level |
 |------|--------|
@@ -60,7 +60,7 @@
 | IoT/Embedded Systems | Mid Junior |
 | Frontend Development | Beginner |
 
-### 🔍 Key Projects
+### Key Projects
 
 **Eldorado Game Platform**
 - Led backend development for game clone with 10K+ concurrent users
@@ -80,7 +80,7 @@
 - Implemented computer vision algorithms for object detection
 - Integrated with drone control systems using ROS
 
-### 🔍 Focus Areas
+### Focus Areas
 - High-Performance Backend Systems
 - Distributed System Design
 - Cloud Native Applications
@@ -88,4 +88,4 @@
 - Deep Learning & NLP
 - Embedded Systems/Drone Programming
 
-> *Passionate about building scalable, high-performance systems. Let's create something impactful!* 🚀
+> *Passionate about building scalable, high-performance systems. Let's create something impactful!* 
