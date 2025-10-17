@@ -7,10 +7,9 @@
 
 ## Professional Experience
 
-**Mid Backend Developer | Eldorado Game (2020-Present)**
+**Mid Backend Developer | Eldorado Game (2020-9/2025)**
 - Architected and implemented backend systems for Eldorado game (clone version)
 - Built high-performance TypeScript backend matching original game performance
-- Handled 10K+ concurrent users with optimized microservices architecture
 - Implemented real-time game mechanics and payment processing systems
 - Technologies: TypeScript, Node.js, Redis, MongoDB, Docker, AWS
 
@@ -53,20 +52,12 @@
 | Area | Level |
 |------|--------|
 | Backend Development | Mid developer |
-| System Design | Mid-Senior |
+| System Design | Mid |
 | Cloud & DevOps | Mid-Senior |
 | Competitive Programming | ~1600 rating on VNOJ |
-| Machine Learning | High Junior |
-| IoT/Embedded Systems | Mid Junior |
+| Machine Learning | High Junior ||
 | Frontend Development | Beginner |
-
 ### Key Projects
-
-**Eldorado Game Platform**
-- Led backend development for game clone with 10K+ concurrent users
-- Implemented real-time game mechanics and payment systems
-- Achieved 99.99% uptime with distributed architecture
-- Optimized database performance for high-throughput transactions
 
 **Eldercare Healthcare Platform**
 - Built scalable microservices architecture using FastAPI & Docker
